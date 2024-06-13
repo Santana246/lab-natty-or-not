@@ -17,13 +17,13 @@ Primeiro foi gerada a imagem da capa do "álbum", com o auxílio do Pixlr, com o
 
 O resultado foi esse:
 <p align="center">
-    <img width="500" src="assets/close up Snoop dogg praying in the Vatican church with bishop attire along other priests big crowd realistic televised.jpg">
+    <img width="500" src="assets/snoop_dogg_ai.png">
 </p>
 
 Após isso, foi criado no Notion o título do artigo, adicionada a imagem fictícia, foram printados ambos e o print foi mandado ao ChatGPT, seguido do seguinte prompt:
 - Crie um artigo baseando-se no que seria escrito após esta headline e esta foto.
 <p align="center">
-    <img width="500" src="assets/imagem de prompt.png">
+    <img width="500" src="assets/imagem_de_prompt.png">
 </p>
 
 O resultado foi transcrito no Notion, ajustado e publicado.
