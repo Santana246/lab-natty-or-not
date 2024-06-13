@@ -23,7 +23,7 @@ O resultado foi esse:
 Após isso, foi criado no Notion o título do artigo, adicionada a imagem fictícia, foram printados ambos e o print foi mandado ao ChatGPT, seguido do seguinte prompt:
 - Crie um artigo baseando-se no que seria escrito após esta headline e esta foto.
 <p align="center">
-    <img width="500" src="assets/imagem_de_prompt.png">
+    <img width="500" src="assets/imagem_de_prompt.PNG">
 </p>
 
 O resultado foi transcrito no Notion, ajustado e publicado.
